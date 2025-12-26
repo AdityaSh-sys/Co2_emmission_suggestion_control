@@ -1,0 +1,201 @@
+Activity,Avg_CO2_Emission(kg/day),Category
+"Car (Petrol, 20 km) - Variation 1",4.128,Transport
+"Car (Diesel, 20 km) - Variation 1",4.021,Transport
+Bus (20 km) - Variation 1,1.008,Transport
+Train (20 km) - Variation 1,0.557,Transport
+Bicycle (20 km) - Variation 1,0.0,Transport
+Walking (20 km) - Variation 1,0.0,Transport
+AC usage (8 hrs/day) - Variation 1,6.798,Household
+Fan usage (8 hrs/day) - Variation 1,0.217,Household
+LED Bulb (5 hrs/day) - Variation 1,0.045,Household
+Old Bulb (5 hrs/day) - Variation 1,0.222,Household
+Laptop (5 hrs/day) - Variation 1,0.094,Household
+Desktop (5 hrs/day) - Variation 1,0.165,Household
+Meat-based diet (per day) - Variation 1,5.775,Food
+Vegetarian diet (per day) - Variation 1,1.943,Food
+Vegan diet (per day) - Variation 1,1.432,Food
+Online shopping (1 order) - Variation 1,0.912,Lifestyle
+Local shopping (1 trip) - Variation 1,0.357,Lifestyle
+Plastic bag (per use) - Variation 1,0.01,Lifestyle
+Reusable bag (per use) - Variation 1,0.001,Lifestyle
+Flight (100 km) - Variation 1,21.542,Transport
+"Car (Petrol, 20 km) - Variation 2",5.268,Transport
+"Car (Diesel, 20 km) - Variation 2",3.949,Transport
+Bus (20 km) - Variation 2,1.37,Transport
+Train (20 km) - Variation 2,0.683,Transport
+Bicycle (20 km) - Variation 2,0.0,Transport
+Walking (20 km) - Variation 2,0.0,Transport
+AC usage (8 hrs/day) - Variation 2,6.357,Household
+Fan usage (8 hrs/day) - Variation 2,0.165,Household
+LED Bulb (5 hrs/day) - Variation 2,0.054,Household
+Old Bulb (5 hrs/day) - Variation 2,0.216,Household
+Laptop (5 hrs/day) - Variation 2,0.081,Household
+Desktop (5 hrs/day) - Variation 2,0.174,Household
+Meat-based diet (per day) - Variation 2,5.985,Food
+Vegetarian diet (per day) - Variation 2,2.145,Food
+Vegan diet (per day) - Variation 2,1.628,Food
+Online shopping (1 order) - Variation 2,0.933,Lifestyle
+Local shopping (1 trip) - Variation 2,0.241,Lifestyle
+Plastic bag (per use) - Variation 2,0.009,Lifestyle
+Reusable bag (per use) - Variation 2,0.001,Lifestyle
+Flight (100 km) - Variation 2,21.836,Transport
+"Car (Petrol, 20 km) - Variation 3",5.02,Transport
+"Car (Diesel, 20 km) - Variation 3",3.625,Transport
+Bus (20 km) - Variation 3,1.151,Transport
+Train (20 km) - Variation 3,0.563,Transport
+Bicycle (20 km) - Variation 3,0.0,Transport
+Walking (20 km) - Variation 3,0.0,Transport
+AC usage (8 hrs/day) - Variation 3,5.721,Household
+Fan usage (8 hrs/day) - Variation 3,0.177,Household
+LED Bulb (5 hrs/day) - Variation 3,0.042,Household
+Old Bulb (5 hrs/day) - Variation 3,0.231,Household
+Laptop (5 hrs/day) - Variation 3,0.092,Household
+Desktop (5 hrs/day) - Variation 3,0.199,Household
+Meat-based diet (per day) - Variation 3,6.919,Food
+Vegetarian diet (per day) - Variation 3,2.177,Food
+Vegan diet (per day) - Variation 3,1.54,Food
+Online shopping (1 order) - Variation 3,1.165,Lifestyle
+Local shopping (1 trip) - Variation 3,0.351,Lifestyle
+Plastic bag (per use) - Variation 3,0.009,Lifestyle
+Reusable bag (per use) - Variation 3,0.001,Lifestyle
+Flight (100 km) - Variation 3,28.417,Transport
+"Car (Petrol, 20 km) - Variation 4",5.214,Transport
+"Car (Diesel, 20 km) - Variation 4",3.682,Transport
+Bus (20 km) - Variation 4,1.185,Transport
+Train (20 km) - Variation 4,0.576,Transport
+Bicycle (20 km) - Variation 4,0.0,Transport
+Walking (20 km) - Variation 4,0.0,Transport
+AC usage (8 hrs/day) - Variation 4,6.588,Household
+Fan usage (8 hrs/day) - Variation 4,0.239,Household
+LED Bulb (5 hrs/day) - Variation 4,0.051,Household
+Old Bulb (5 hrs/day) - Variation 4,0.218,Household
+Laptop (5 hrs/day) - Variation 4,0.114,Household
+Desktop (5 hrs/day) - Variation 4,0.208,Household
+Meat-based diet (per day) - Variation 4,6.31,Food
+Vegetarian diet (per day) - Variation 4,1.96,Food
+Vegan diet (per day) - Variation 4,1.252,Food
+Online shopping (1 order) - Variation 4,0.983,Lifestyle
+Local shopping (1 trip) - Variation 4,0.324,Lifestyle
+Plastic bag (per use) - Variation 4,0.008,Lifestyle
+Reusable bag (per use) - Variation 4,0.001,Lifestyle
+Flight (100 km) - Variation 4,24.663,Transport
+"Car (Petrol, 20 km) - Variation 5",5.024,Transport
+"Car (Diesel, 20 km) - Variation 5",4.769,Transport
+Bus (20 km) - Variation 5,1.438,Transport
+Train (20 km) - Variation 5,0.682,Transport
+Bicycle (20 km) - Variation 5,0.0,Transport
+Walking (20 km) - Variation 5,0.0,Transport
+AC usage (8 hrs/day) - Variation 5,6.814,Household
+Fan usage (8 hrs/day) - Variation 5,0.229,Household
+LED Bulb (5 hrs/day) - Variation 5,0.057,Household
+Old Bulb (5 hrs/day) - Variation 5,0.19,Household
+Laptop (5 hrs/day) - Variation 5,0.082,Household
+Desktop (5 hrs/day) - Variation 5,0.207,Household
+Meat-based diet (per day) - Variation 5,6.839,Food
+Vegetarian diet (per day) - Variation 5,1.85,Food
+Vegan diet (per day) - Variation 5,1.741,Food
+Online shopping (1 order) - Variation 5,0.887,Lifestyle
+Local shopping (1 trip) - Variation 5,0.261,Lifestyle
+Plastic bag (per use) - Variation 5,0.011,Lifestyle
+Reusable bag (per use) - Variation 5,0.001,Lifestyle
+Flight (100 km) - Variation 5,25.909,Transport
+"Car (Petrol, 20 km) - Variation 6",3.775,Transport
+"Car (Diesel, 20 km) - Variation 6",4.044,Transport
+Bus (20 km) - Variation 6,1.3,Transport
+Train (20 km) - Variation 6,0.547,Transport
+Bicycle (20 km) - Variation 6,0.0,Transport
+Walking (20 km) - Variation 6,0.0,Transport
+AC usage (8 hrs/day) - Variation 6,4.82,Household
+Fan usage (8 hrs/day) - Variation 6,0.193,Household
+LED Bulb (5 hrs/day) - Variation 6,0.04,Household
+Old Bulb (5 hrs/day) - Variation 6,0.205,Household
+Laptop (5 hrs/day) - Variation 6,0.084,Household
+Desktop (5 hrs/day) - Variation 6,0.237,Household
+Meat-based diet (per day) - Variation 6,6.701,Food
+Vegetarian diet (per day) - Variation 6,2.232,Food
+Vegan diet (per day) - Variation 6,1.519,Food
+Online shopping (1 order) - Variation 6,0.86,Lifestyle
+Local shopping (1 trip) - Variation 6,0.316,Lifestyle
+Plastic bag (per use) - Variation 6,0.01,Lifestyle
+Reusable bag (per use) - Variation 6,0.001,Lifestyle
+Flight (100 km) - Variation 6,22.683,Transport
+"Car (Petrol, 20 km) - Variation 7",3.857,Transport
+"Car (Diesel, 20 km) - Variation 7",4.553,Transport
+Bus (20 km) - Variation 7,1.287,Transport
+Train (20 km) - Variation 7,0.692,Transport
+Bicycle (20 km) - Variation 7,0.0,Transport
+Walking (20 km) - Variation 7,0.0,Transport
+AC usage (8 hrs/day) - Variation 7,6.342,Household
+Fan usage (8 hrs/day) - Variation 7,0.181,Household
+LED Bulb (5 hrs/day) - Variation 7,0.057,Household
+Old Bulb (5 hrs/day) - Variation 7,0.203,Household
+Laptop (5 hrs/day) - Variation 7,0.119,Household
+Desktop (5 hrs/day) - Variation 7,0.222,Household
+Meat-based diet (per day) - Variation 7,6.281,Food
+Vegetarian diet (per day) - Variation 7,1.937,Food
+Vegan diet (per day) - Variation 7,1.44,Food
+Online shopping (1 order) - Variation 7,0.972,Lifestyle
+Local shopping (1 trip) - Variation 7,0.309,Lifestyle
+Plastic bag (per use) - Variation 7,0.01,Lifestyle
+Reusable bag (per use) - Variation 7,0.001,Lifestyle
+Flight (100 km) - Variation 7,28.886,Transport
+"Car (Petrol, 20 km) - Variation 8",3.913,Transport
+"Car (Diesel, 20 km) - Variation 8",3.526,Transport
+Bus (20 km) - Variation 8,1.047,Transport
+Train (20 km) - Variation 8,0.589,Transport
+Bicycle (20 km) - Variation 8,0.0,Transport
+Walking (20 km) - Variation 8,0.0,Transport
+AC usage (8 hrs/day) - Variation 8,7.095,Household
+Fan usage (8 hrs/day) - Variation 8,0.218,Household
+LED Bulb (5 hrs/day) - Variation 8,0.048,Household
+Old Bulb (5 hrs/day) - Variation 8,0.227,Household
+Laptop (5 hrs/day) - Variation 8,0.107,Household
+Desktop (5 hrs/day) - Variation 8,0.219,Household
+Meat-based diet (per day) - Variation 8,5.651,Food
+Vegetarian diet (per day) - Variation 8,1.604,Food
+Vegan diet (per day) - Variation 8,1.764,Food
+Online shopping (1 order) - Variation 8,1.178,Lifestyle
+Local shopping (1 trip) - Variation 8,0.283,Lifestyle
+Plastic bag (per use) - Variation 8,0.011,Lifestyle
+Reusable bag (per use) - Variation 8,0.001,Lifestyle
+Flight (100 km) - Variation 8,27.91,Transport
+"Car (Petrol, 20 km) - Variation 9",4.225,Transport
+"Car (Diesel, 20 km) - Variation 9",4.631,Transport
+Bus (20 km) - Variation 9,1.217,Transport
+Train (20 km) - Variation 9,0.618,Transport
+Bicycle (20 km) - Variation 9,0.0,Transport
+Walking (20 km) - Variation 9,0.0,Transport
+AC usage (8 hrs/day) - Variation 9,7.095,Household
+Fan usage (8 hrs/day) - Variation 9,0.228,Household
+LED Bulb (5 hrs/day) - Variation 9,0.051,Household
+Old Bulb (5 hrs/day) - Variation 9,0.238,Household
+Laptop (5 hrs/day) - Variation 9,0.116,Household
+Desktop (5 hrs/day) - Variation 9,0.221,Household
+Meat-based diet (per day) - Variation 9,7.351,Food
+Vegetarian diet (per day) - Variation 9,1.998,Food
+Vegan diet (per day) - Variation 9,1.586,Food
+Online shopping (1 order) - Variation 9,1.047,Lifestyle
+Local shopping (1 trip) - Variation 9,0.242,Lifestyle
+Plastic bag (per use) - Variation 9,0.011,Lifestyle
+Reusable bag (per use) - Variation 9,0.001,Lifestyle
+Flight (100 km) - Variation 9,21.396,Transport
+"Car (Petrol, 20 km) - Variation 10",4.378,Transport
+"Car (Diesel, 20 km) - Variation 10",3.962,Transport
+Bus (20 km) - Variation 10,1.107,Transport
+Train (20 km) - Variation 10,0.617,Transport
+Bicycle (20 km) - Variation 10,0.0,Transport
+Walking (20 km) - Variation 10,0.0,Transport
+AC usage (8 hrs/day) - Variation 10,5.372,Household
+Fan usage (8 hrs/day) - Variation 10,0.178,Household
+LED Bulb (5 hrs/day) - Variation 10,0.049,Household
+Old Bulb (5 hrs/day) - Variation 10,0.201,Household
+Laptop (5 hrs/day) - Variation 10,0.091,Household
+Desktop (5 hrs/day) - Variation 10,0.161,Household
+Meat-based diet (per day) - Variation 10,6.382,Food
+Vegetarian diet (per day) - Variation 10,1.66,Food
+Vegan diet (per day) - Variation 10,1.709,Food
+Online shopping (1 order) - Variation 10,1.054,Lifestyle
+Local shopping (1 trip) - Variation 10,0.279,Lifestyle
+Plastic bag (per use) - Variation 10,0.011,Lifestyle
+Reusable bag (per use) - Variation 10,0.001,Lifestyle
+Flight (100 km) - Variation 10,21.361,Transport
