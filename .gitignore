@@ -1,4 +1,11 @@
-/.venv
-/chroma_store
-/imp_app.py
-/.env
+# Python virtual environment
+.venv/
+
+# Environment variables
+.env
+
+# Chroma DB store
+chroma_store/
+
+# Local import script (ignore tracked local copies)
+imp_app.py
